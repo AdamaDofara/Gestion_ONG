@@ -1,0 +1,20 @@
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\bin\Debug\AccessONG.dll
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\bin\Debug\AccessONG.pdb
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\obj\Debug\AccessONG.dll
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\obj\Debug\AccessONG.pdb
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\obj\Debug\AccessONG.csprojAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\source\repos\slnONGBinome03\AccessONG\obj\Debug\AccessONG.csproj.CoreCompileInputs.cache
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\bin\Debug\AccessONG.dll
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\bin\Debug\AccessONG.pdb
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\bin\Debug\CommonONG.dll
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\bin\Debug\CommonONG.pdb
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\obj\Debug\AccessONG.csprojResolveAssemblyReference.cache
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\obj\Debug\AccessONG.dll
+C:\Users\NWCL1.18\Desktop\SLN\AccessONG\obj\Debug\AccessONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\bin\Debug\AccessONG.dll
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\bin\Debug\AccessONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\bin\Debug\CommonONG.dll
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\bin\Debug\CommonONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\obj\Debug\AccessONG.dll
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\obj\Debug\AccessONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\AccessONG\obj\Debug\AccessONG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\NWCL1.18\Desktop\SLN\CommonONG\bin\Debug\CommonONG.dll
+C:\Users\NWCL1.18\Desktop\SLN\CommonONG\bin\Debug\CommonONG.pdb
+C:\Users\NWCL1.18\Desktop\SLN\CommonONG\obj\Debug\CommonONG.dll
+C:\Users\NWCL1.18\Desktop\SLN\CommonONG\obj\Debug\CommonONG.pdb
+C:\Users\NWCL1.18\Desktop\SLN\CommonONG\obj\Debug\CommonONG.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\CommonONG\bin\Debug\CommonONG.dll
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\CommonONG\bin\Debug\CommonONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\CommonONG\obj\Debug\CommonONG.dll
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\CommonONG\obj\Debug\CommonONG.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Projets Personnels\Visual Studio\bdONGBinome03\Solution Visual Studio\BdBinome\SLN\CommonONG\obj\Debug\CommonONG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe.config
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\bin\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.csprojAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDemarrage.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.GenerateResource.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmMenuPrincipal.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDepotClientDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDepotClientChoix.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\SolutionGjesset\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmCommandeDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe.config
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\bin\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDemarrage.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmMenuPrincipal.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDepotClientDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDepotClientChoix.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmCommandeDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.GenerateResource.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI\BrasserieGjesset\obj\Debug\BrasserieGjesset.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDemarrage.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmMenuPrincipal.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAgenceGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmCommandeDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.GenerateResource.Cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe.config
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\bin\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmActiviteGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAppreciationGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAgenceModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmResponsableGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmActiviteModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAppreciationModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBrasserieDIEI - Copie\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmResponsableModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe.config
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\bin\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\bin\Debug\BrasserieGjesset.pdb
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.csprojAssemblyReference.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAppreciationModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmActiviteGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmActiviteModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAppreciationGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmDemarrage.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmMenuPrincipal.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAgenceModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmAgenceGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmCommandeDetail.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmResponsableGestion.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.frmResponsableModification.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.Properties.Resources.resources
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.GenerateResource.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.exe
+C:\Users\LENOVO THINKPAD\OneDrive\Documents\Visual Studio 2019\Project\slnBinome03\BrasserieGjesset\obj\Debug\BrasserieGjesset.pdb
